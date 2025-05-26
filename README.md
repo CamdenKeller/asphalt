@@ -10,6 +10,11 @@ Asphalt Team Members:
 3. Kaitlyn Hom (khh54@cornell.edu)
 4. Julius Pieper (jp2529@cornell.edu)
 
+Asphalt Case Study Members:
+
+1. Camden Keller (cak285@cornell.edu)
+2. Tyson Yoshikawa (tmy25@cornell.edu)
+
 The project has been deployed and is accessible at [https://asphalt-gc.vercel.app/](https://asphalt-gc.vercel.app/).
 
 ## Getting Started
